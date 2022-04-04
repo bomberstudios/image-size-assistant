@@ -1,7 +1,7 @@
 {
   "name": "image-size-assistant",
   "homepage": "https://github.com/bomberstudios/image-size-assistant",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "dist/index.js",
   "sketch": "dist/sketch.js",
   "license": "MIT",

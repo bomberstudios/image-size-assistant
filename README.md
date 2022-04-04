@@ -1,16 +1,7 @@
-# sketch-assistant-template
+# Image Size Assistant
 
-> 💁‍♀️ This repository contains a starter project for developing a new Assistant.
+This Sketch Assistant checks the dimensions of the images in your document, to find opportunities to
+reduce the file size.
 
-👉
-[Click here to generate a new project using this repository as a template](https://github.com/sketch-hq/sketch-assistant-template/generate)
-
-## Getting started
-
-For in-depth guides head over to the [Sketch Developer](https://developer.sketch.com/assistants/)
-site.
-
-- [Getting started](https://developer.sketch.com/assistants/getting-started)
-- [Write a rule](https://developer.sketch.com/assistants/write-a-rule)
-- [Publishing](https://developer.sketch.com/assistants/publish)
-- And more!
+Sketch imports the uncompressed originals of images you drop into your canvas. This can cause your
+document to be larger than it needs to be, specially if you're not using the original image size.

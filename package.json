@@ -1,17 +1,17 @@
 {
-  "name": "sketch-assistant-template",
-  "homepage": "https://github.com/sketch-hq/sketch-assistant-template",
+  "name": "image-size-assistant",
+  "homepage": "https://github.com/bomberstudios/image-size-assistant",
   "version": "1.0.0",
   "main": "dist/index.js",
   "sketch": "dist/sketch.js",
   "license": "MIT",
   "sketch-assistant": {
-    "title": "Sketch Assistant Template",
-    "description": "Template repository for a starter Assistant project",
+    "title": "Image Size Assistant",
+    "description": "Check your document for large images",
     "icon": ""
   },
   "author": {
-    "name": "Your Name or Company Name"
+    "name": "Ale Muñoz"
   },
   "keywords": [
     "sketch",
@@ -44,6 +44,7 @@
     "webpack-cli": "4.9.2"
   },
   "dependencies": {
-    "@sketch-hq/sketch-assistant-types": "6.5.0"
+    "@sketch-hq/sketch-assistant-types": "6.5.0",
+    "@sketch-hq/sketch-core-assistant": "^6.5.0"
   }
 }

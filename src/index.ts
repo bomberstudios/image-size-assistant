@@ -5,7 +5,7 @@ const assistant: AssistantPackage = [
   CoreAssistant,
   async () => {
     return {
-      name: 'file-size-assistant',
+      name: 'image-size-assistant',
       rules: [],
       config: {
         rules: {
